@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&display=swap');
+
+
+.centered-text {
+  text-align: center;
+  font-family: 'Calistoga', cursive;
+  color: #504037;
+  position: relative;
+  top: -450px;
+}
+
+.produtos{
+  width: 1870px;
+}
+
+.cointainer{
+  position: relative;
+  top: -200px;
+}
+
+.card{
+  position: relative;
+  top: -300px;
+}
+
+.carro {
+  width: 460px;
+  position: relative;
+  top: -290px;
+}
+
+.carro2 {
+  width: 1406px;
+  position: relative;
+  top: -330px;
+}
+
+.carro3 {
+  width: 2358px;
+  position: relative;
+  top: -370px;
+}
+
+.carro4 {
+  width: 3274px;
+  position: relative;
+  top: -410px;
+}
+
+.carrincompras{
+  width: 40px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.navbar-expand-lg{
+  width:2000px;
+}
+
+.navbar-brand2{
+  width: 1950px;
+  position: relative;
+  top: -293px;
+  right: 20px;
+}
+
+.botãoclass {
+  color: #ffffff;
+  margin-right: 50px !important;
+  position: relative;
+  right: -300px;
+}
+
+.container-fluid{
+  background-color: #7E6969;
+  width: 100%;
+}
+
+.custom-navbar{
+  width: 100%;
+} 
+
+.nav-item{
+  margin-right: 50px !important; /* Aumenta o espaçamento à direita de cada item */
+
+}
+
+.nav-link{
+  color: white;
+}
+
+#navbarNav{
+  font-size: 25px;
+  font-style: white;
+}
+
+.navbar-brand{
+  width: 250px;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
